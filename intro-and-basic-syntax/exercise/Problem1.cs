@@ -4,10 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        int num1 = int.Parse(Console.ReadLine());
-        int num2 = int.Parse(Console.ReadLine());
-        int num3 = int.Parse(Console.ReadLine());
-        int num4 = int.Parse(Console.ReadLine());
-        Console.WriteLine($"{num1:d4} {num2:d4} {num3:d4} {num4:d4}");
+        int number1 = int.Parse(Console.ReadLine());
+        int number2 = int.Parse(Console.ReadLine());
+        int number3 = int.Parse(Console.ReadLine());
+        int number4 = int.Parse(Console.ReadLine());
+        Console.WriteLine("{0:d4} {0:d4} {0:d4} {0:d4}",number1,number2,number3,number4);
     }
 }
