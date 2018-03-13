@@ -4,7 +4,7 @@ Problems for exercises and homework for the ["Programming Fundamentals Extended"
 ## Problem 1.
 ### Debit Card Number             
 
-Write a program, which receives **4****integers**on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
+Write a program, which receives **4 integers**on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
 ### Examples
 
@@ -58,7 +58,7 @@ on the console, **formatted to the 2nd character after the decimal point**.
 ## Problem 4.
 ### Beverage Labels             
 
-Write a program, which reads a food product **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
+Write a program, which reads a food product **name**, **volume**, **energy content per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
 for the **given volume** and print them
 on the console in the following format:
 
