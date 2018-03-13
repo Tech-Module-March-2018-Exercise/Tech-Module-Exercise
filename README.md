@@ -30,6 +30,31 @@ Write a program, which receives **4****integers**on the console and **prints the
 22
 
 ---
+
+## Problem 2.
+### Rectangle Area             
+
+Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers
+on the console, **formatted to the 2nd character after the decimal point**.
+
+### Examples
+
+**Input**|**Output**
+:-----|:-----:|
+2|14.00|
+7
+
+**Input**|**Output**
+:-----|:-----:|
+7|56.00|
+8
+
+**Input**|**Output**
+:-----|:-----:|
+12.33|61.65|
+5
+
+---
 ## Problem 4.
 ### Beverage Labels             
 
