@@ -2,8 +2,5 @@ IvayloIV - IvayloIvanovV
 tankeras - Stoil_Tomov
 Edomwonyi - scotttimetotry
 Z3RKSZ - zerks
-<<<<<<< HEAD
 AsenAsenow - AsenAsenow
-=======
-AsenAsenow - AsenAsenow
->>>>>>> bd18b907607269dfd91aa3094dc336121a384636
+
