@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Checked Scotttimetotry.
+using System;
     class Program
     {
         static void Main()
