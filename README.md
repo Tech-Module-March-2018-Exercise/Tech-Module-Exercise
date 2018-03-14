@@ -102,7 +102,8 @@ Nuka-Cola Quantum|350ml Nuka-Cola Quantum:|
 PROBLEM3 
 ADDED SMTING
 
-### Problem 5. Character Stats          
+## Problem 5. 
+### Character Stats 
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum
