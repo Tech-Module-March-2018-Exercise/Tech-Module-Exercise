@@ -123,7 +123,7 @@ Nuka-Cola Quantum|350ml Nuka-Cola Quantum:|
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum
-health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+health**, **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
 #### Examples
 
@@ -136,10 +136,6 @@ Mayro|Name: Mayro|
 9 |Energy: \|\|\|\|\|\|\|\|\|\|\.\| |
 10
 
-
-
-
-
 **Input**|**Output**
 :-----|:-----:|
 Bauser|Name: Bauser|
@@ -148,9 +144,6 @@ Bauser|Name: Bauser|
 10 |Energy: \|\|\|\|\|\|\|\|\|\|\|\| |
 10
 
-
-
-
 **Input**|**Output**
 :-----|:-----:|
 Loogi|Name: Loogi|
@@ -158,9 +151,6 @@ Loogi|Name: Loogi|
 20
 2 |Energy: \|\|\|\............\| |
 14
-
-
-
 
 
 **Input**|**Output**
