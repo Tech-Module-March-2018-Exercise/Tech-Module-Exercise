@@ -19,10 +19,6 @@ namespace ConsoleApp18
 
 //We print numbers
             Console.WriteLine("{0:F2}", c);
-
-
-
-
         }
     }
 }
